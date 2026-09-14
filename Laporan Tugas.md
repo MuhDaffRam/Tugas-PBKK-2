@@ -48,7 +48,7 @@ Console.WriteLine("Hello, World!");
 
 <img width="599" height="74" alt="image" src="https://github.com/user-attachments/assets/b07e2765-3e28-42e0-abbb-667a6398bd54" />
 
-untuk run code-nya kita harus gunakan '''dotnet run'''
+untuk run code-nya kita harus gunakan `dotnet run`
 
 
 
